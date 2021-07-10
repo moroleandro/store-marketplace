@@ -1,0 +1,3 @@
+CREATE DATABASE appcheckout;
+CREATE DATABASE store;
+CREATE DATABASE invoice;
